@@ -52,7 +52,7 @@
         <div class="page-content">
           <?php echo '<p>Hello, World!, in PHP</p>'; ?>
         </div>
-        <img src="./image/dog computer.jpg" alt="">
+        <img src="./images/dog-computer.jpg" alt="">
         <!-- Simple Textfield for integers-->
         <form action="#">
           <br />
